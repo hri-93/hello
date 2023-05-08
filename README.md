@@ -5,6 +5,6 @@ This tutorial focus mainly on Git and using GitHub as its remote
 
 This repository is built step by step in the tutorial.....
 
-Its noe includes step for GitHub
+Its now includes step for GitHub
 
 
